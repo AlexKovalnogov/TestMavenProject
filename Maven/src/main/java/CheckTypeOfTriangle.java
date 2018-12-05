@@ -25,6 +25,7 @@ public class CheckTypeOfTriangle {
     }
 
 
+
   public  String checkTriangle(double SideA, double SideB, double SideC) {
         String TypeOfTriangle;
 
