@@ -6,7 +6,6 @@ public class ConsoleInputRead {
 
         Scanner scanner = new Scanner(System.in);
         System.out.print(" input data: ");
-
         return scanner.nextInt();
     }
 }
